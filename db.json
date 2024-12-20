@@ -1,0 +1,104 @@
+{
+  "products": [
+    {
+      "id": "1",
+      "brand": "Apple",
+      "model": "iPhone 13",
+      "description": "Smartphone de última generación con excelente cámara y rendimiento",
+      "price": 799,
+      "specs": {
+        "screenSize": "6.1 pulgadas",
+        "processor": "A15 Bionic",
+        "ram": "4 GB",
+        "storage": "128 GB",
+        "battery": "3240 mAh",
+        "cameras": {
+          "main": "12 MP dual",
+          "front": "12 MP"
+        }
+      },
+      "imageUrls": [
+        "https://example.com/iphone13.jpg",
+        "https://example.com/iphone13-2.jpg"
+      ],
+      "stock": 50,
+      "category": "Smartphone",
+      "condition": "Nuevo"
+    },
+    {
+      "id": "2",
+      "brand": "Samsung",
+      "model": "Galaxy S21",
+      "description": "Smartphone Android de alta gama con cámara profesional",
+      "price": 699,
+      "specs": {
+        "screenSize": "6.2 pulgadas",
+        "processor": "Exynos 2100",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "battery": "4000 mAh",
+        "cameras": {
+          "main": "64 MP triple",
+          "front": "10 MP"
+        }
+      },
+      "imageUrls": [
+        "https://example.com/galaxys21.jpg",
+        "https://example.com/galaxys21-2.jpg"
+      ],
+      "stock": 30,
+      "category": "Smartphone",
+      "condition": "Nuevo"
+    },
+    {
+      "id": "3",
+      "brand": "Google",
+      "model": "Pixel 6",
+      "description": "Smartphone con la mejor experiencia de cámara y Android puro",
+      "price": 599,
+      "specs": {
+        "screenSize": "6.4 pulgadas",
+        "processor": "Google Tensor",
+        "ram": "8 GB",
+        "storage": "128 GB",
+        "battery": "4614 mAh",
+        "cameras": {
+          "main": "50 MP dual",
+          "front": "8 MP"
+        }
+      },
+      "imageUrls": [
+        "https://example.com/pixel6.jpg",
+        "https://example.com/pixel6-2.jpg"
+      ],
+      "stock": 20,
+      "category": "Smartphone",
+      "condition": "Nuevo"
+    },
+    {
+      "id": "4",
+      "brand": "iPad",
+      "model": "iPad Air",
+      "description": "Tablet versátil para trabajo y entretenimiento",
+      "price": 599,
+      "specs": {
+        "screenSize": "10.9 pulgadas",
+        "processor": "A14 Bionic",
+        "ram": "4 GB",
+        "storage": "64 GB",
+        "battery": "7606 mAh",
+        "cameras": {
+          "main": "12 MP",
+          "front": "7 MP"
+        }
+      },
+      "imageUrls": [
+        "https://example.com/ipadair.jpg",
+        "https://example.com/ipadair-2.jpg"
+      ],
+      "stock": 15,
+      "category": "Tablet",
+      "condition": "Nuevo"
+    }
+  ]
+}
